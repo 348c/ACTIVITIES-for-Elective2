@@ -1,2 +1,2 @@
-# Exercises1
-this is exercises no.1 in our subject electives
+Activities requirement
+All activity for this course subject 
